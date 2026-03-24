@@ -1,4 +1,4 @@
-// Hardcoded array of 5 users
+// Hardcoded array of users in graphql
 const users = [
   {
     _id: "1",
